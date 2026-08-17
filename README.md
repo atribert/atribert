@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.jpg" width="100%" alt="个人主页横幅">
 </p>
 
-# 你好，我是王子懿 👋
+# 你好，我是atribert 👋
 
 北京大学计算机科学与技术专业学生，目前对密码学、区块链与信息安全方向感兴趣。
 
