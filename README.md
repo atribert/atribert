@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.jpg" width="100%" alt="个人主页横幅">
 </p>
 
-# Hi there, I'm atribert 👋
+# Hi there, I'm Bert Wang 👋
 
 北京大学计算机科学与技术专业学生，目前对密码学、区块链与信息安全方向感兴趣。
 
