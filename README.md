@@ -49,5 +49,4 @@
 ## 联系我
 
 - **邮箱：** atri0811@163.com
-- **bilibili：** https://space.bilibili.com/1669332432?spm_id_from=333.1007.0.0
 - **知乎：** https://www.zhihu.com/people/atmo--21
